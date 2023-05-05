@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import MartaHome from './routes/MantraHome'
+import './sass/style.scss'
 
 const router = createBrowserRouter([
   {
